@@ -1,0 +1,23 @@
+{
+  "name": "projeto-node",
+  "version": "1.0.0",
+  "description": "Projeto Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickViniciusX/Projeto-Node.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "Erick Vinicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickViniciusX/Projeto-Node/issues"
+  },
+  "homepage": "https://github.com/ErickViniciusX/Projeto-Node#readme"
+}
